@@ -51,5 +51,8 @@ The Vakalatnama feature allows users to generate a vakalatnama document. Users n
 Lease Agreement
 The Lease Agreement feature enables users to generate a lease agreement by providing details such as lessor, lessee, rent amount, and duration of the lease.
 
+
+![plexus____-](https://github.com/Mani9516/legal_chat/assets/97172597/a00d5f3b-a3f1-4e81-a1fa-2ac599cba15c)
+
 Contributing
 Contributions are welcome! If you would like to contribute to this project, please follow the guidelines outlined in CONTRIBUTING.md.
